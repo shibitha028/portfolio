@@ -1,4 +1,4 @@
-const logotext = "SHIBITHA S";
+const logotext = "SHIBITHA";
 const meta = {
     title: "Shibitha S",
     description: "I’m Shibitha S data scientist _ Full stack devloper,currently working in Berlin",
